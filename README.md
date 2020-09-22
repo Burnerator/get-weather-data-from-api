@@ -1,13 +1,14 @@
 # Application to get weather data using AEMET data API
 
-This is an example of how to consume web services using go language. Application recover weather data from
-a indicated meteorologic station. The service is provided by Spanish AEMET (Agencia Estatal de Meteorología)
+This is an example of how to consume web services using Go language https://golang.org/.
+Application recover weather data from an indicated meteorologic station. The service is provided
+by Spanish AEMET (Agencia Estatal de Meteorología)
 https://opendata.aemet.es/dist/index.html
 
 ## Build
 
-1) Install go. Follow instructions https://golang.org/doc/install
-2) Pull this git project.
+1) Install Go. Follow instructions https://golang.org/doc/install
+2) Clone this git project.
 3) Go to downloaded folder /get-weather-data-from-api/
 4) Execute command
 
